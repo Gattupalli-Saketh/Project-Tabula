@@ -16,6 +16,7 @@ To use this project, you need to have Python installed on your machine. You can 
 
 ```bash
 pip install tabula-py
+```
 
 '''markdown
 import tabula
